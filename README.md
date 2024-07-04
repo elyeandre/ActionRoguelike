@@ -13,7 +13,7 @@ This project is part of the **[Professional Game Development in C++ and Unreal E
 ![GitHub Branch Selection Info](https://www.tomlooman.com/wp-content/uploads/2021/01/github_branchesinfo.jpg)
 
 # Project Features
-- Third-person Action Character Movement
+- First-person Action Character Movement
 - **Enhanced Input**
 - **Action System** (similar to Gameplay Ability System in design)
   - Dash Ability (Teleporting via projectile)
